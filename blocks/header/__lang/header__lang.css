@@ -1,4 +1,9 @@
 .header__lang {
     color: white;
-
+    margin: 46px 48px 0 0;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
 }
